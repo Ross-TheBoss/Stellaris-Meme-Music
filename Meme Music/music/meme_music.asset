@@ -1,0 +1,35 @@
+music = {
+	name = "Awakening a Fallen Empire"
+	file = "awakening_a_fallen_empire.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Sciurus Carolinensis"
+	file = "dees_big_nuts.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Chin Cheng Hanji"
+	file = "chin_cheng_hanji.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Kosmiczne Krowy"
+	file = "dancing_polish_cow.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Astronomia"
+	file = "astronomia.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Approaching Oblivion"
+	file = "harvest_dawn.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Oblivion"
+	file = "fall_of_the_hammer.ogg"
+	volume = 1.00
+}

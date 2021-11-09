@@ -1,0 +1,21 @@
+song = {
+	name = "Awakening a Fallen Empire"
+}
+song = {
+	name = "Sciurus Carolinensis"
+}
+song = {
+	name = "Chin Cheng Hanji"
+}
+song = {
+	name = "Kosmiczne Krowy"
+}
+song = {
+	name = "Astronomia"
+}
+song = {
+	name = "Approaching Oblivion"
+}
+song = {
+	name = "Oblivion"
+}
