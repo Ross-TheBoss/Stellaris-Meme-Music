@@ -19,3 +19,24 @@ song = {
 song = {
 	name = "Oblivion"
 }
+song = {
+	name = "Illuminati"
+}
+song = {
+	name = "Deus Autem Rapping"
+}
+song = {
+	name = "Thomas The Tank Engine"
+}
+song = {
+	name = "A Galaxy Lacking Warmth"
+}
+song = {
+	name = "Running in the 1990's"
+}
+song = {
+	name = "All Star"
+}
+song = {
+	name = "Simulation theory"
+}

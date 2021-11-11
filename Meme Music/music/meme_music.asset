@@ -33,3 +33,38 @@ music = {
 	file = "fall_of_the_hammer.ogg"
 	volume = 1.00
 }
+music = {
+	name = "Illuminati"
+	file = "illuminati.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Deus Autem Rapping"
+	file = "rap_god_eminem.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Thomas The Tank Engine"
+	file = "thomas_the_tank_engine.ogg"
+	volume = 0.80
+}
+music = {
+	name = "A Galaxy Lacking Warmth"
+	file = "man_not_hot.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Running in the 1990's"
+	file = "running_in_the_90s.ogg"
+	volume = 0.80
+}
+music = {
+	name = "All Star"
+	file = "all_star.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Simulation theory"
+	file = "deja_vu.ogg"
+	volume = 0.80
+}
