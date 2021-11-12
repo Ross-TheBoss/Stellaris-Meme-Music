@@ -5,4 +5,4 @@ tags={
 name="Meme Music"
 picture="thumbnail.png"
 supported_version="3.*"
-path="D:/Users/Ross/Documents/Paradox Interactive/Stellaris/mod/Meme Music"
+path=""
