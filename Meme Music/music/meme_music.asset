@@ -68,3 +68,48 @@ music = {
 	file = "deja_vu.ogg"
 	volume = 0.80
 }
+music = {
+	name = "Pumped Up Kicks"
+	file = "pumped_up_kicks.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Preubens Gloria"
+	file = "preubens_gloria.ogg"
+	volume = 0.80
+}
+music = {
+	name = "USSR National Anthem"
+	file = "ussr_national_anthem.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Xeno Imposter"
+	file = "among_us_drip.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Kronos"
+	file = "dancin_krono_remix.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Crab Rave"
+	file = "crab_rave.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Night Of Nights"
+	file = "night_of_nights_metal_cover.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Fan VS Enjoyer"
+	file = "fan_vs_enjoyer.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Postman Pat"
+	file = "postman_pat.ogg"
+	volume = 1.00
+}
