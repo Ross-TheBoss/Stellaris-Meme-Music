@@ -40,3 +40,30 @@ song = {
 song = {
 	name = "Simulation theory"
 }
+song = {
+	name = "Pumped Up Kicks"
+}
+song = {
+	name = "Preubens Gloria"
+}
+song = {
+	name = "USSR National Anthem"
+}
+song = {
+	name = "Xeno Imposter"
+}
+song = {
+	name = "Kronos"
+}
+song = {
+	name = "Crab Rave"
+}
+song = {
+	name = "Night Of Nights"
+}
+song = {
+	name = "Fan VS Enjoyer"
+}
+song = {
+	name = "Postman Pat"
+}
